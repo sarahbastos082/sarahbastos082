@@ -1,16 +1,27 @@
-## Hi there 👋
+Olá, eu sou Sarah Rodrigues de Sousa Bastos 👋
 
-<!--
-**sarahbastos082/sarahbastos082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor apaixonado por tecnologia, desenvolvimento web e criação de jogos. Atualmente cursando o 2º ano do Ensino Médio no CEPI Osvaldo da Costa Meireles e participando ativamente de projetos de inovação, hackathons e olimpíadas científicas.
 
-Here are some ideas to get you started:
+🚀 Sobre Mim
+💻 Explorando o desenvolvimento web full-stack, design de software e game development.
+🎮 Criando jogos 2D na Godot Engine (GDScript).
+🐧 Entusiasta de hardware e usuário de Linux.
+🛠️ Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linguagens de Programação:
+
+!JavaScript !Python !C !HTML5 !CSS3
+
+Frameworks, Ferramentas e Ambientes:
+
+!Godot !Git !Linux Mint !Debian !Vercel
+
+📊 Estatísticas do GitHub
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yurigmorais&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurigmorais&layout=compact&theme=github_dark"/>
+</div>
+
+🌐 Contato
+GitHub: @sarahbastos082
